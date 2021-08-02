@@ -1,0 +1,13 @@
+[09-Jul-2021 19:26:15 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/afiamunn/public_html/xmlrpc.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in Unknown on line 0
+[10-Jul-2021 00:28:37 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `m_options` WHERE `option_name` = '_transient_astra-theme-cron-test-ok' made by require('wp-blog-header.php'), wp, WP->main, do_action_ref_array('wp'), WP_Hook->do_action, WP_Hook->apply_filters, Astra_Theme_Background_Updater->install_actions, Astra_Theme_Background_Updater->test_cron, get_transient, delete_option
+[23-Jul-2021 12:58:22 UTC] PHP Warning:  fileperms(): stat failed for /home/afiamunn/public_html/index.php in /home/afiamunn/public_html/wp-admin/includes/file.php on line 1907
+[23-Jul-2021 12:58:23 UTC] PHP Warning:  fileperms(): stat failed for /home/afiamunn/public_html/index.php in /home/afiamunn/public_html/wp-admin/includes/file.php on line 1907
+[23-Jul-2021 12:58:24 UTC] PHP Warning:  fileperms(): stat failed for /home/afiamunn/public_html/index.php in /home/afiamunn/public_html/wp-admin/includes/file.php on line 1907
+[23-Jul-2021 12:58:24 UTC] PHP Warning:  fileperms(): stat failed for /home/afiamunn/public_html/index.php in /home/afiamunn/public_html/wp-admin/includes/file.php on line 1907
+[23-Jul-2021 12:58:24 UTC] PHP Warning:  fileperms(): stat failed for /home/afiamunn/public_html/index.php in /home/afiamunn/public_html/wp-admin/includes/file.php on line 1907
+[23-Jul-2021 12:58:24 UTC] PHP Warning:  fileperms(): stat failed for /home/afiamunn/public_html/index.php in /home/afiamunn/public_html/wp-admin/includes/file.php on line 1907
+[23-Jul-2021 12:58:25 UTC] PHP Warning:  fileperms(): stat failed for /home/afiamunn/public_html/index.php in /home/afiamunn/public_html/wp-admin/includes/file.php on line 1907
+[23-Jul-2021 12:58:27 UTC] PHP Warning:  fileperms(): stat failed for /home/afiamunn/public_html/index.php in /home/afiamunn/public_html/wp-admin/includes/file.php on line 1907
+[23-Jul-2021 12:58:30 UTC] PHP Warning:  fileperms(): stat failed for /home/afiamunn/public_html/index.php in /home/afiamunn/public_html/wp-admin/includes/file.php on line 1907
+[23-Jul-2021 12:58:33 UTC] PHP Warning:  fileperms(): stat failed for /home/afiamunn/public_html/index.php in /home/afiamunn/public_html/wp-admin/includes/file.php on line 1907
+[23-Jul-2021 12:58:37 UTC] PHP Warning:  fileperms(): stat failed for /home/afiamunn/public_html/index.php in /home/afiamunn/public_html/wp-admin/includes/file.php on line 1907
